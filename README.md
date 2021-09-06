@@ -21,3 +21,5 @@ https://www.coingecko.com/en/api/documentation
 
 ## Reference
 [SocialNetworkTwitch](https://github.com/philipplackner/SocialNetworkTwitch)
+
+[e203bea6](https://github.com/philipplackner/SocialNetworkTwitch/tree/e203bea6) -> compose app for only ui, no api integration
