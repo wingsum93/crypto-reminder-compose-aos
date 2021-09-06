@@ -1,7 +1,7 @@
 # Crypto reminder aos, Compose + free API
 
 ## Feature
-- [ ] 
+- [ ] Jetpack Compose, build ui
 
 ## Free Crypto API
 
@@ -18,4 +18,6 @@ https://www.coingecko.com/en/api/documentation
 - [ ] custom crypto price alert for multiple coins
 - [ ] 
 - [ ] 
-- [ ] 
+
+## Reference
+[SocialNetworkTwitch](https://github.com/philipplackner/SocialNetworkTwitch)
