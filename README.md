@@ -10,6 +10,9 @@ https://www.coingecko.com/en/api/pricing
 free plan for 10-50 calls per minute
 https://www.coingecko.com/en/api/documentation
 
+Coinpaprika API (1.6.1)
+https://api.coinpaprika.com/
+
 ## Wish feature
 - [ ] Beautiful fonts
 - [ ] bitcoin price api integration
